@@ -1,7 +1,7 @@
 class ExternalScene extends window.BaseScene {
   constructor() {
     super({
-      name: "test_island",
+      name: "glizz_island",
       player: {
         spawn: {
           x: 210,
@@ -43,7 +43,7 @@ class ExternalScene extends window.BaseScene {
               name: "Geoff",
               clothing: npcClothing,
             },
-            jsx: "Howdy farmer! Welcome to the test community island, stay safe out there.",
+            jsx: "Howdy farmer! Welcome to Glizz Island, stay safe out there.",
           });
         },
       },
