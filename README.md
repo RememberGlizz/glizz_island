@@ -1,6 +1,6 @@
-# Test Island Example
+# Glizz Island!
 
-Welcome to the first every Community Island!
+Welcome to RememberGlizz's Community Island!
 
 Custom Scene file is found at `public/Scene.js`
 
